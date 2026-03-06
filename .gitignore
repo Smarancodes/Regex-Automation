@@ -1,0 +1,22 @@
+# Environments
+venv/
+env/
+.env
+
+# Cache
+__pycache__/
+*.pyc
+
+# Local Data
+temp_images/
+input_pdfs/
+output_pdfs/
+output_json/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+{
+  "patterns": [
+    {
+      "name": "PWP_Sample",
+      "regex": "(?i)\\b(sample|sample\\s+report|sample\\s+client|report\\s+illustration|purposes|objective\\s+growth)\\b"
+    },
+    {
+      "name": "Portfolio_Analysis",
+      "regex": "(?i)\\b(gresb|portfolio|selection|benchmark|example|portfolio\\s+analysis)\\b"
+    },
+    {
+      "name": "PWP_Wealth",
+      "regex": "(?i)\\b(wealth\\s+portfolios|wealth|portfolios|personal\\s+wealth|personal|account)\\b"
+    }
+  ]
+}
